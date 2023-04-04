@@ -1,0 +1,74 @@
+[
+    {
+      "id": "6424b4bcdda4d4681a3eb3cb",
+      "picture": "https://t3.ftcdn.net/jpg/01/39/49/18/240_F_139491823_kY7QNZHEdsI0zYHB4nfq0WV2HNRGDhYo.jpg",
+      "name": "Kane Carrillo",
+      "gender": "male",
+      "category": "Striker",
+      "price": "$20000"
+    },
+    {
+      "id": "6424b4bce6b82414a98c6f19",
+      "picture": "https://cdn.pixabay.com/photo/2016/03/27/19/19/boys-1283786_960_720.jpg",
+      "name": "Jami Humphrey",
+      "gender": "female",
+      "category": "Striker",
+      "price": "$10000"
+    },
+    {
+      "id": "6424b4bccf4c855c74b865ee",
+      "picture": "https://as1.ftcdn.net/v2/jpg/02/07/76/08/1000_F_207760840_tTECT9MOoLzorIRl7o87AdQf5fJfqOaZ.jpg",
+      "name": "Marva Baird",
+      "gender": "female",
+      "category": "Striker",
+      "price": "$12000"
+    },
+    {
+      "id": "6424b4bcabadab29ea7016b9",
+      "picture": "https://as2.ftcdn.net/v2/jpg/02/52/66/07/1000_F_252660743_YMkNMZBmaMXsTOg4r28xeSAgppCpObOm.jpg",
+      "name": "Cornelia Hartman",
+      "gender": "female",
+      "category": "Striker",
+      "price": "$25000"
+    },
+    {
+      "id": "6424b4bcd8a4ae66986e7e5e",
+      "picture": "https://as1.ftcdn.net/v2/jpg/02/01/47/22/1000_F_201472213_faAnmRIMu0Rmn7XRNPiXIwAKx7tvxgvT.jpg",
+      "name": "Justice Tyler",
+      "gender": "male",
+      "category": "Striker",
+      "price": "$10600"
+    },
+    {
+      "id": "6424b4bc7b2ececfe8e1b141",
+      "picture": "https://t4.ftcdn.net/jpg/01/39/49/25/240_F_139492545_Lkf28jbvwPAKi8opFghyGYUYiRrrxER8.jpg",
+      "name": "Alex Reynolds",
+      "gender": "male",
+      "category": "Goal Keeper",
+      "price": "$50000"
+    },
+    {
+      "id": "6424b4bc474d425677972293",
+      "picture": "https://as1.ftcdn.net/v2/jpg/01/21/35/16/1000_F_121351683_Q6ksj93Vw543rG3jl69bTdrnr2W0VI7l.jpg",
+      "name": "Adams Petersen",
+      "gender": "male",
+      "category": "Striker",
+      "price": "$40000"
+    },
+    {
+      "id": "6424b4bc474d428687972293",
+      "picture": "https://as2.ftcdn.net/v2/jpg/02/93/33/93/1000_F_293339397_Om9987Er0q6vbScS5BywDOzsGWXjTQKh.jpg",
+      "name": "Aliter Bone",
+      "gender": "male",
+      "category": "Striker",
+      "price": "$90000"
+    },
+    {
+      "id": "6424b4bc474d425779972293",
+      "picture": "https://as1.ftcdn.net/v2/jpg/02/48/71/96/1000_F_248719614_dYsZXNv8uuHgTVjkr1lt9YdGSgHnYHG1.jpg",
+      "name": "Kate Petersen",
+      "gender": "female",
+      "category": "Striker",
+      "price": "$80000"
+    }
+  ]
